@@ -25,7 +25,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# LibrarySystem-front
-# LibrarySystem-front
-# LibrarySystem-front
-# LibrarySystem-front
+
+##这是埃森哲校企合作班的结课项目。大概由5人完成。我负责登录模块，该仓库为前端部分。我负责登录模块，在前端部分写了HTTP请求拦截器，和response响应拦截器和路由守卫。这两个拦截器和路由守卫对应后端服务器的jwt-token部分，为了保护登录状态和无权限非法进入系统。
